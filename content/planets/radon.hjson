@@ -129,7 +129,7 @@ icon: planet
 # Default core block for launch loadouts.
 defaultCore: core-nucleus
 # The parent of the planet.
-parent: 1-0-themelight
+parent: white-dwarf
 # The parent of the whole solar system the planet is in. Affects lighting.
 solarSystem: white-dwarf
 # Possible planets that could be landed on from this planet.
