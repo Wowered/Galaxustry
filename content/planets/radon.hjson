@@ -131,7 +131,7 @@ defaultCore: core-nucleus
 # The parent of the planet.
 parent: 1-0-themelight
 # The parent of the whole solar system the planet is in. Affects lighting.
-solarSystem: 1-0-themelight
+solarSystem: white-dwarf
 # Possible planets that could be landed on from this planet.
 # In the current version, only 1 entry is applicable if you decide to use modded accelerators.
 # Probably useless since the Interplanetary Accelerator is hidden and not working.
