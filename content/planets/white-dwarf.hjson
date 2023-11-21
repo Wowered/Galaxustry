@@ -50,7 +50,7 @@ solarSystem: white-dwarf
 parent: sun
 # Orbit radius of this planet. (Just to make it very far from the sun, I guess?)
 # Part 2 of the band-aid solution.
-orbitRadius: 1000000
+orbitRadius: 10000
 # Whether to draw this planet's orbit.
 drawOrbit: false
 # Whether this planet is tidally locked. No clue what this means, go check Wikipedia
