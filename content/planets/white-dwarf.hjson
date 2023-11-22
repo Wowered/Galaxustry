@@ -1,4 +1,3 @@
-# This stuff is here to help me remember what all this does
 # The planet's display name. If you want to support multiple languages, use bundles instead!
 localizedName: White-Dwarf
 
@@ -50,12 +49,12 @@ solarSystem: white-dwarf
 parent: sun
 # Orbit radius of this planet. (Just to make it very far from the sun, I guess?)
 # Part 2 of the band-aid solution.
-orbitRadius: 10000
+orbitRadius: 12000
 # Whether to draw this planet's orbit.
 drawOrbit: false
 # Whether this planet is tidally locked. No clue what this means, go check Wikipedia
 # or something.
-tidalLock: false
+tidalLock: true
 # The color of the planet's icon displayed in top-left dialog.
 iconColor: 00b3c7
 # Icon's name displayed in top-left dialog. (commandRally is a circle)
