@@ -39,9 +39,9 @@ hasAtmosphere: false
 # your star and don't bother.
 bloom: true
 # Spacing between a parent (this) and satellites.
-orbitSpacing: 6
+orbitSpacing: 8
 # Attach a solar system to the star itself so it shows up in the UI.
-solarSystem: white-dwarf
+solarSystem: white-warf
 # The parent of the planet. Initiating a new solar system should work in v146,
 # but I couldn't find a way to leave the parent null as it is currently required to declare for JSON planets.
 # So we set the parent to sun for a band-aid solution.
@@ -56,6 +56,6 @@ drawOrbit: false
 # or something.
 tidalLock: true
 # The color of the planet's icon displayed in top-left dialog.
-iconColor: 00b3c7
+iconColor: 85e2f2
 # Icon's name displayed in top-left dialog. (commandRally is a circle)
 icon: commandRally
