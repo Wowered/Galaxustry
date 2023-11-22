@@ -92,7 +92,7 @@ sectorSize: 1
 # Spacing between a parent (this) and satellites.
 orbitSpacing: 13
 # Radius of this planet's sphere.
-radius: 1
+radius: 1.1
 # Minimum camera zoom.
 minZoom: 0.5
 # Whether to draw the orbit.
@@ -105,7 +105,7 @@ accessible: true
 # Toggle day-night cycle.
 updateLighting: false
 # A number used for sector generation. If == -1, planet ID is picked instead.
-sectorSeed: 529
+sectorSeed: 329
 # Whether this planet is blooming.
 bloom: false
 # This is self-explanatory...
