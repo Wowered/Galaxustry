@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Jason 2.0
+localizedName: Radon
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -111,9 +111,9 @@ bloom: false
 # This is self-explanatory...
 visible: true
 # Also self-explanatory...
-atmosphereColor: aaaaaaaa
+atmosphereColor: 26803b
 # The color of the planet's icon displayed in top-left dialog.
-iconColor: 29302b
+iconColor: 3f8c51
 # Another self-explanatory field...
 hasAtmosphere: false
 # Whether simulate waves when off-planet.
