@@ -1,7 +1,7 @@
 name: "Galaxustry"
 displayName: "Galaxustry"
 author: Coderman
-description: "trying to add a GALAXY in mindustry...    NOWHERE near done :/"
+description: "trying to add a GALAXY in mindustry..."
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
