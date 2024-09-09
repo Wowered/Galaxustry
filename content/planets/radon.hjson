@@ -109,7 +109,7 @@ sectorSeed: 529
 # Whether this planet is blooming.
 bloom: false
 # This is self-explanatory...
-visible: true
+visible:true
 # Also self-explanatory...
 atmosphereColor: 26803b
 # The color of the planet's icon displayed in top-left dialog.
