@@ -21,11 +21,11 @@ mesh: {
     colorScale: 1
     # Array of colors to use in your star. Any number of color values can be here!
     colors: [
-        ffe06f
-        ffe790
-        ffedae
-        fff8c8
-        ffe53b
+        ffffff
+        999999
+        888888
+        989898
+        999988
     ]
 }
 
