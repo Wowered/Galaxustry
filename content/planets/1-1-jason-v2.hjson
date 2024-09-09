@@ -9,7 +9,7 @@ mesh: {
   # A number used for mesh generation.
   seed: 69
   # Mesh "quality". More divisions = more hexagons.
-  divisions: 6
+  divisions: 5
   # First color to be used.
   color1: 620000
   # Second color to be used.
