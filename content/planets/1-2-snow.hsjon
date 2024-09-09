@@ -15,7 +15,7 @@ mesh: {
   # Second color to be used.
   color2: 9fe9f5
   # Mesh radius.
-  radius: 0.8
+  radius: 0.9
   # A noise property.
   octaves: 3
   # A noise property.
@@ -33,13 +33,13 @@ cloudMesh: {
   # A number used for cloud generation.
   seed: 96
   # Cloud move speed.
-  speed: 0.4
+  speed: 0.9
   # Cloud sphere radius.
-  radius: 0.05
+  radius: 0.08
   # Clouds "quality". More divisions = more hexagons.
-  divisions: 4
+  divisions: 5
   # Cloud color.
-  color: 820000
+  color: f7f7f7
   # A noise property.
   octaves: 3
   # A noise property.
@@ -115,7 +115,7 @@ atmosphereColor: aaaaaaaa
 # The color of the planet's icon displayed in top-left dialog.
 iconColor: 29302b
 # Another self-explanatory field...
-hasAtmosphere: false
+hasAtmosphere: true
 # Whether simulate waves when off-planet.
 allowWaveSimulation: true
 # Whether allow to land on procedurally generated sectors at all. False = only presets are available.
