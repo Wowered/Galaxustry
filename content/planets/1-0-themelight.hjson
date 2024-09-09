@@ -6,7 +6,7 @@ mesh: {
     # Mesh type. Self-explanatory.
     type: SunMesh
     # Noise property.
-    divisions: 3
+    divisions: 6
     # Noise property.
     octaves: 4
     # Noise property.
