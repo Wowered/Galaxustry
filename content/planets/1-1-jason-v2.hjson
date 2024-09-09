@@ -9,7 +9,7 @@ mesh: {
   # A number used for mesh generation.
   seed: 69
   # Mesh "quality". More divisions = more hexagons.
-  divisions: 7
+  divisions: 9
   # First color to be used.
   color1: 620000
   # Second color to be used.
@@ -21,7 +21,7 @@ mesh: {
   # A noise property.
   persistence: 0.8
   # Noise scale.
-  scale: 1
+  scale: 2
   # A noise property.
   mag: 1.5
 }
