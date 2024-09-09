@@ -19,7 +19,7 @@ mesh: {
   # A noise property.
   octaves: 3
   # A noise property.
-  persistence: 0.8
+  persistence: 0.7
   # Noise scale.
   scale: 2
   # A noise property.
