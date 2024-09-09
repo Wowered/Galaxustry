@@ -13,7 +13,7 @@ mesh: {
   # First color to be used.
   color1: 620000
   # Second color to be used.
-  color2: 520000
+  color2: 111111
   # Mesh radius.
   radius: 0.8
   # A noise property.
