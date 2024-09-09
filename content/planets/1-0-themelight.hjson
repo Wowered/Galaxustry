@@ -25,7 +25,7 @@ mesh: {
         999999
         ffffff
         999999
-        989898
+        ffffff
     ]
 }
 
@@ -34,7 +34,7 @@ accessible: false
 # This is self-explanatory...
 visible: true
 # Also self-explanatory...
-hasAtmosphere: false
+hasAtmosphere: true
 # Whether this planet (or, in this case, star) is blooming. Just put it to true in
 # your star and don't bother.
 bloom: true
