@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Radon
+localizedName: Jason 2.0
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -11,7 +11,7 @@ mesh: {
   # Mesh "quality". More divisions = more hexagons.
   divisions: 4
   # First color to be used.
-  color1: a2a2c
+  color1: a2a2c2
   # Second color to be used.
   color2: 22262b
   # Mesh radius.
@@ -39,7 +39,7 @@ cloudMesh: {
   # Clouds "quality". More divisions = more hexagons.
   divisions: 4
   # Cloud color.
-  color: 2a6324
+  color: 4662e87e
   # A noise property.
   octaves: 3
   # A noise property.
@@ -111,9 +111,9 @@ bloom: false
 # This is self-explanatory...
 visible: true
 # Also self-explanatory...
-atmosphereColor: 26803b
+atmosphereColor: aaaaaaaa
 # The color of the planet's icon displayed in top-left dialog.
-iconColor: 3f8c51
+iconColor: 29302b
 # Another self-explanatory field...
 hasAtmosphere: false
 # Whether simulate waves when off-planet.
@@ -129,9 +129,9 @@ icon: planet
 # Default core block for launch loadouts.
 defaultCore: core-nucleus
 # The parent of the planet.
-parent: white-dwarf
+parent: 1-0-themelight
 # The parent of the whole solar system the planet is in. Affects lighting.
-solarSystem: white-dwarf
+solarSystem: 1-0-themelight
 # Possible planets that could be landed on from this planet.
 # In the current version, only 1 entry is applicable if you decide to use modded accelerators.
 # Probably useless since the Interplanetary Accelerator is hidden and not working.
