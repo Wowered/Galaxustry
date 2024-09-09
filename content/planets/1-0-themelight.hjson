@@ -23,7 +23,7 @@ mesh: {
     colors: [
         ffffff
         999999
-        ffffff
+        f9f9f9
         999999
         ffffff
     ]
