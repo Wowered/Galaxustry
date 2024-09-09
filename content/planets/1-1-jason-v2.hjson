@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Jason 2.0
+localizedName: Radon
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -39,7 +39,7 @@ cloudMesh: {
   # Clouds "quality". More divisions = more hexagons.
   divisions: 4
   # Cloud color.
-  color: 4662e87e
+  color: 820000
   # A noise property.
   octaves: 3
   # A noise property.
