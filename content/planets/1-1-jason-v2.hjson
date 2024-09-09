@@ -17,7 +17,7 @@ mesh: {
   # Mesh radius.
   radius: 0.8
   # A noise property.
-  octaves: 3
+  octaves: 1
   # A noise property.
   persistence: 0.8
   # Noise scale.
