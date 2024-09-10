@@ -88,7 +88,7 @@ generator: {
 alwaysUnlocked: true
 # This determines the size of the sector grid.
 # Fun fact: The console will warn you about this "unknown" field, but it also functions properly at the same time.
-sectorSize: 2
+sectorSize: 2.5
 # Spacing between a parent (this) and satellites.
 orbitSpacing: 10
 # Radius of this planet's sphere.
