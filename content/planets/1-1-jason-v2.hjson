@@ -33,11 +33,11 @@ cloudMesh: {
   # A number used for cloud generation.
   seed: 96
   # Cloud move speed.
-  speed: 0.4
+  speed: 0.6
   # Cloud sphere radius.
   radius: 0.05
   # Clouds "quality". More divisions = more hexagons.
-  divisions: 4
+  divisions: 6
   # Cloud color.
   color: 820000
   # A noise property.
