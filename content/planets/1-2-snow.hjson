@@ -115,7 +115,7 @@ atmosphereColor: 989898
 # The color of the planet's icon displayed in top-left dialog.
 iconColor: f9f9f9
 # Another self-explanatory field...
-hasAtmosphere: true
+hasAtmosphere: false
 # Whether simulate waves when off-planet.
 allowWaveSimulation: true
 # Whether allow to land on procedurally generated sectors at all. False = only presets are available.
