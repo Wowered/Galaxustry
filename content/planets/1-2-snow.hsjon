@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Wintress
+localizedName: Radon
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -9,19 +9,19 @@ mesh: {
   # A number used for mesh generation.
   seed: 69
   # Mesh "quality". More divisions = more hexagons.
-  divisions: 16
+  divisions: 5
   # First color to be used.
-  color1: ccf8ff
+  color1: 620000
   # Second color to be used.
-  color2: 9fe9f5
+  color2: 111111
   # Mesh radius.
-  radius: 0.9
+  radius: 0.8
   # A noise property.
   octaves: 3
   # A noise property.
-  persistence: 0.8
+  persistence: 0.7
   # Noise scale.
-  scale: 1.25
+  scale: 2
   # A noise property.
   mag: 1.5
 }
@@ -33,13 +33,13 @@ cloudMesh: {
   # A number used for cloud generation.
   seed: 96
   # Cloud move speed.
-  speed: 0.9
+  speed: 0.4
   # Cloud sphere radius.
-  radius: 0.08
+  radius: 0.05
   # Clouds "quality". More divisions = more hexagons.
-  divisions: 5
+  divisions: 4
   # Cloud color.
-  color: f7f7f7
+  color: 820000
   # A noise property.
   octaves: 3
   # A noise property.
@@ -88,9 +88,9 @@ generator: {
 alwaysUnlocked: true
 # This determines the size of the sector grid.
 # Fun fact: The console will warn you about this "unknown" field, but it also functions properly at the same time.
-sectorSize: 0.5
+sectorSize: 1
 # Spacing between a parent (this) and satellites.
-orbitSpacing: 9
+orbitSpacing: 12
 # Radius of this planet's sphere.
 radius: 1
 # Minimum camera zoom.
@@ -111,9 +111,9 @@ bloom: true
 # This is self-explanatory...
 visible: true
 # Also self-explanatory...
-atmosphereColor: aaaaaaaa
+atmosphereColor: 721111
 # The color of the planet's icon displayed in top-left dialog.
-iconColor: 999999
+iconColor: 721111
 # Another self-explanatory field...
 hasAtmosphere: true
 # Whether simulate waves when off-planet.
