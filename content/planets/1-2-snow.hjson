@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Graupel
+localizedName: Jraupel
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -37,7 +37,7 @@ cloudMesh: {
   # Cloud sphere radius.
   radius: 0.05
   # Clouds "quality". More divisions = more hexagons.
-  divisions: 4
+  divisions: 6
   # Cloud color.
   color: A1D4FF
   # A noise property.
