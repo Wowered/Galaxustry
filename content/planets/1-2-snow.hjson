@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: snow
+localizedName: Graupel
 
 # The mesh of the planet. At least MultiMesh is supported, so you can put multiple
 # NoiseMesh'es to your planet!
@@ -11,11 +11,11 @@ mesh: {
   # Mesh "quality". More divisions = more hexagons.
   divisions: 5
   # First color to be used.
-  color1: 620000
+  color1: A5F4FF
   # Second color to be used.
-  color2: 111111
+  color2: C3F8FF
   # Mesh radius.
-  radius: 0.8
+  radius: 0.9
   # A noise property.
   octaves: 3
   # A noise property.
@@ -39,7 +39,7 @@ cloudMesh: {
   # Clouds "quality". More divisions = more hexagons.
   divisions: 4
   # Cloud color.
-  color: 820000
+  color: A1D4FF
   # A noise property.
   octaves: 3
   # A noise property.
@@ -78,7 +78,7 @@ generator: {
   stoneChance: 0
 
   # Terrain generation chances, in order: ice > carbon > beryl > ferric.
-  iceChance: 0.5
+  iceChance: 0.8
   carbonChance: 1
   berylChance: 0
   ferricChance: 0
@@ -88,9 +88,9 @@ generator: {
 alwaysUnlocked: true
 # This determines the size of the sector grid.
 # Fun fact: The console will warn you about this "unknown" field, but it also functions properly at the same time.
-sectorSize: 1
+sectorSize: 2
 # Spacing between a parent (this) and satellites.
-orbitSpacing: 12
+orbitSpacing: 10
 # Radius of this planet's sphere.
 radius: 1
 # Minimum camera zoom.
@@ -103,7 +103,7 @@ atmosphereRadOut: 0.3
 # Whether this can be landed on.
 accessible: true
 # Toggle day-night cycle.
-updateLighting: false
+updateLighting: true
 # A number used for sector generation. If == -1, planet ID is picked instead.
 sectorSeed: 529
 # Whether this planet is blooming.
@@ -111,9 +111,9 @@ bloom: true
 # This is self-explanatory...
 visible: true
 # Also self-explanatory...
-atmosphereColor: 721111
+atmosphereColor: 989898
 # The color of the planet's icon displayed in top-left dialog.
-iconColor: 721111
+iconColor: f9f9f9
 # Another self-explanatory field...
 hasAtmosphere: true
 # Whether simulate waves when off-planet.
