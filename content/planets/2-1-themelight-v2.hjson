@@ -51,7 +51,7 @@ parent: 1-0-themelight
 # Part 2 of the band-aid solution.
 orbitRadius: 19
 # Whether to draw this planet's orbit.
-drawOrbit: false
+drawOrbit: true
 # Whether this planet is tidally locked. No clue what this means, go check Wikipedia
 # or something.
 tidalLock: true
