@@ -129,9 +129,9 @@ icon: planet
 # Default core block for launch loadouts.
 defaultCore: core-nucleus
 # The parent of the planet.
-parent: Black-hole
+parent: black-hole
 # The parent of the whole solar system the planet is in. Affects lighting.
-solarSystem: Black-hole
+solarSystem: black-hole
 # Possible planets that could be landed on from this planet.
 # In the current version, only 1 entry is applicable if you decide to use modded accelerators.
 # Probably useless since the Interplanetary Accelerator is hidden and not working.
