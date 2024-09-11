@@ -91,9 +91,9 @@ hasAtmosphere: false
 # Icon's name displayed in top-left dialog.
 icon: commandRally
 # The parent of the planet.
-parent: 1-0-themelight
+parent: black-hole-sun
 # The parent of the whole solar system the planet is in. Affects lighting.
-solarSystem: 1-0-themelight
+solarSystem: black-hole-sun
 # Items not available in this planet. Commented out because itemWhitelist is used instead as seen below.
 #hiddenItems: [
 #  graphite, plastanium, phase-fabric
