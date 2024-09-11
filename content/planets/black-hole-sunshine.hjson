@@ -71,7 +71,7 @@ orbitRadius: 0.2
 orbitOffset: 0
 orbitTime: 30
 # Radius of this planet's sphere.
-radius: 1.05
+radius: 1.55
 # Whether to draw the orbit.
 drawOrbit: false
 # Whether this can be landed on.
@@ -81,7 +81,7 @@ updateLighting: false
 # A number used for sector generation. If == -1, planet ID is picked instead.
 sectorSeed: 529
 # Whether this planet is blooming.
-bloom: false
+bloom: true
 # This is self-explanatory...
 visible: true
 # The color of the planet's icon displayed in top-left dialog.
