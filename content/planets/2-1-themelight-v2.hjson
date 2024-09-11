@@ -46,7 +46,7 @@ solarSystem: 2-1-themelight-v2
 # but I couldn't find a way to leave the parent null as it is currently required to declare for JSON planets.
 # So we set the parent to sun for a band-aid solution.
 # (A quick reminder: if you find a way to set this field to null, let me know!)
-parent: Black-hole
+parent: black-hole
 # Orbit radius of this planet. (Just to make it very far from the sun, I guess?)
 # Part 2 of the band-aid solution.
 orbitRadius: 25
