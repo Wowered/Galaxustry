@@ -71,7 +71,7 @@ orbitRadius: 0.2
 orbitOffset: 0
 orbitTime: 30
 # Radius of this planet's sphere.
-radius: 1.20
+radius: 1.10
 # Whether to draw the orbit.
 drawOrbit: false
 # Whether this can be landed on.
