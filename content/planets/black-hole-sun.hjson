@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Black Hole
+localizedName: Black Hole Sun
 
 # The mesh of this star. SunMesh should now be supported in v146, thanks to my PR. (hehe, shameless plug)
 mesh: {
@@ -38,7 +38,7 @@ bloom: true
 # Spacing between a parent (this) and satellites.
 orbitSpacing: 0.2
 # Attach a solar system to the star itself so it shows up in the UI.
-solarSystem: black-hole
+solarSystem: black-hole-sun
 # The parent of the planet. Initiating a new solar system should work in v146,
 # but I couldn't find a way to leave the parent null as it is currently required to declare for JSON planets.
 # So we set the parent to sun for a band-aid solution.
