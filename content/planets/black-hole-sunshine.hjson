@@ -75,13 +75,13 @@ radius: 1.05
 # Whether to draw the orbit.
 drawOrbit: false
 # Whether this can be landed on.
-accessible: true
+accessible: false
 # Toggle day-night cycle.
 updateLighting: false
 # A number used for sector generation. If == -1, planet ID is picked instead.
 sectorSeed: 529
 # Whether this planet is blooming.
-bloom: true
+bloom: false
 # This is self-explanatory...
 visible: true
 # The color of the planet's icon displayed in top-left dialog.
@@ -91,9 +91,9 @@ hasAtmosphere: false
 # Icon's name displayed in top-left dialog.
 icon: commandRally
 # The parent of the planet.
-parent: black-hole
+parent: black-hole-sun
 # The parent of the whole solar system the planet is in. Affects lighting.
-solarSystem: black-hole
+solarSystem: black-hole-sun
 # Items not available in this planet. Commented out because itemWhitelist is used instead as seen below.
 #hiddenItems: [
 #  graphite, plastanium, phase-fabric
