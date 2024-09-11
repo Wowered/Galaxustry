@@ -75,7 +75,7 @@ radius: 1.05
 # Whether to draw the orbit.
 drawOrbit: false
 # Whether this can be landed on.
-accessible: false
+accessible: true
 # Toggle day-night cycle.
 updateLighting: false
 # A number used for sector generation. If == -1, planet ID is picked instead.
