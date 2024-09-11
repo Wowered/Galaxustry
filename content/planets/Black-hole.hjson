@@ -1,5 +1,5 @@
 # The planet's display name. If you want to support multiple languages, use bundles instead!
-localizedName: Black Hole Sun
+localizedName: Black Hole
 
 # The mesh of this star. SunMesh should now be supported in v146, thanks to my PR. (hehe, shameless plug)
 mesh: {
