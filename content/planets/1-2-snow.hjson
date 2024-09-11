@@ -21,7 +21,7 @@ mesh: {
   # A noise property.
   persistence: 0.7
   # Noise scale.
-  scale: 2
+  scale: 1
   # A noise property.
   mag: 1.5
 }
