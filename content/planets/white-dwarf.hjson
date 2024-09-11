@@ -49,9 +49,9 @@ solarSystem: white-dwarf
 parent: black-hole-sun
 # Orbit radius of this planet. (Just to make it very far from the sun, I guess?)
 # Part 2 of the band-aid solution.
-orbitRadius: 25
+orbitRadius: 19
 # Whether to draw this planet's orbit.
-drawOrbit: false
+drawOrbit: true
 # Whether this planet is tidally locked. No clue what this means, go check Wikipedia
 # or something.
 tidalLock: true
