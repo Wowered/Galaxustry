@@ -81,13 +81,13 @@ updateLighting: false
 # A number used for sector generation. If == -1, planet ID is picked instead.
 sectorSeed: 529
 # Whether this planet is blooming.
-bloom: false
+bloom: true
 # This is self-explanatory...
 visible: true
 # The color of the planet's icon displayed in top-left dialog.
 iconColor: 29302b
 # Another self-explanatory field...
-hasAtmosphere: false
+hasAtmosphere: true
 # Icon's name displayed in top-left dialog.
 icon: commandRally
 # The parent of the planet.
